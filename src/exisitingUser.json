@@ -1,0 +1,15 @@
+{ "exisitingUser":  [
+    {
+        "username":"abc@gmail.com",
+        "password":"abc"
+    },
+    {
+        "username":"xyz@gmail.com",
+        "password":"xyz"
+    },
+    {
+        "username":"asd@gmail.com",
+        "password":"asd"
+    }
+]
+}
